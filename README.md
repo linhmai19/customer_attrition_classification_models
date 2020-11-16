@@ -20,26 +20,26 @@ This project is followed the OSEMN framework with the usage of five different cl
 
 
 ## Appendix for Files
-- Data Cleaning: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
+- Data Cleaning: <a href="https://github.com/linhmai19/customer_attrition_classification_models/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
 - EDA and modeling: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/mod_customer_churn_analysis.ipynb">customer_churn_analysis.ipynb</a>
 
 ## Dataset:
-- Raw data: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/customer_churn.csv">customer_churn.csv</a>
+- Raw data: <a href="https://github.com/linhmai19/customer_attrition_classification_models/blob/master/customer_churn.csv">customer_churn.csv</a>
 
-- Cleaned data: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/cleaned_customer_churn.csv">cleaned_customer_churn.csv</a>
+- Cleaned data: <a href="https://github.com/linhmai19/customer_attrition_classification_models/blob/master/cleaned_customer_churn.csv">cleaned_customer_churn.csv</a>
 
 ## Non-technical Presentation
 
-<a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/customer_attrition_presentation.pdf">customer_churn_presentation.pdf</a>
+<a href="https://github.com/linhmai19/customer_attrition_classification_models/blob/master/customer_attrition_presentation.pdf">customer_churn_presentation.pdf</a>
 
 ## Walkthrough Video
 
-<a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/oral_presentation.mp4">Oral Presentation</a>
+<a href="https://github.com/linhmai19/customer_attrition_classification_models/blob/master/oral_presentation.mp4">Oral Presentation</a>
 
 ## Blog post
 
-<a href="https://medium.com/@linhnp.mai/telecom-customer-attrition-analysis-6d5da0f3c361">Telecom Customer Attrition Analysis</a>
+<a href="https://linhnp-mai.medium.com/telecom-customer-attrition-analysis-6d5da0f3c361">Telecom Customer Attrition Analysis</a>
 
 ## Reference 
 The raw dataset was downloaded from Kaggle and the data was collected from SyriaTel company 
